@@ -9,6 +9,11 @@ header {
     justify-content: center;
 }
 
+a {
+    text-decoration: underline;
+    color: aquamarine;
+}
+
 h1 {
     font-family: Verdana, sans-serif;
     font-weight: normal;
